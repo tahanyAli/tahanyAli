@@ -16,6 +16,7 @@
 ![sass](./img/sass.png)
 ![reactJs](./img/react.png)
 ![nodejs](./img/node.png)
+![mongodb](./img/mongodb.png)
 ![github](./img/github.png)
 ![git](./img/git.png)
 ![adobeXD](./img/xd.png)
