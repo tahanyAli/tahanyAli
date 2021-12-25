@@ -2,7 +2,7 @@
 
 # Hello, I'm Tahany Ali(Software Developer) 🔭
 
-* Innovative Software Developer with a keen eye for detail and a determination to deliver the highest quality . I take great pride in my work , I always try to better myself with every project I work on.
+* Innovative Software Developer with a keen eye for detail and determination to deliver the highest quality . I take great pride in my work , I always try to better myself with every project I work on.
 * I enjoy with team work.
 * I motivated by problem solving.
 
@@ -21,6 +21,8 @@
 ![git](./img/git.png)
 ![adobeXD](./img/xd.png)
 ![VScode](./img/vs.png)
+![python](./img/python.png)
+![bootstrap](./img/bootstrap.png)
 
 * and MS Office (Word, Excel ,PowerPoint, Outlook).
 
