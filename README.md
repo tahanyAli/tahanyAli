@@ -3,7 +3,7 @@
 # Hello, I'm Tahany Ali(Software Developer) 🔭
 
 * Innovative Software Developer with a keen eye for detail and a determination to deliver the highest quality . I take great pride in my work , I always try to better myself with every project I work on.
-* I enjoey with team work.
+* I enjoy with team work.
 * I motivated by problem solving.
 
 ### **_The Main Areas of my experience are_**
