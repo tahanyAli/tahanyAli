@@ -10,19 +10,21 @@
 
 ![HTML5](./img/HTML5.png)
 ![Css](./img/css3.png)
+![tailwindcss](./img/tailwind.png)
+![bootstrap](./img/bootstrap.png)
+![sass](./img/sass.png)
+![adobeXD](./img/xd.png)
+![figma](./img/figma.png)
 ![javascript](./img/js.jpg)
 ![jquery](./img/jquery.png)
-![tailwindcss](./img/tailwind.png)
-![sass](./img/sass.png)
 ![reactJs](./img/react.png)
 ![nodejs](./img/node.png)
 ![mongodb](./img/mongodb.png)
 ![github](./img/github.png)
 ![git](./img/git.png)
-![adobeXD](./img/xd.png)
 ![VScode](./img/vs.png)
 ![python](./img/python.png)
-![bootstrap](./img/bootstrap.png)
+![django](./img/django.png)
 
 * and MS Office (Word, Excel ,PowerPoint, Outlook).
 
