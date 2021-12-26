@@ -32,8 +32,6 @@
 
 OOP, Data Structures and Algorithms.
 
-### **Most used Languages**
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahany777&theme=tokyonight)
 <!-- ![stars](https://github-readme-stats.vercel.app/api?username=tahany777&theme=tokyonight) -->
