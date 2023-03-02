@@ -33,8 +33,8 @@
 OOP, Data Structures and Algorithms.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahany777&theme=tokyonight)
-<!-- ![stars](https://github-readme-stats.vercel.app/api?username=tahany777&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahanyAli&theme=tokyonight)
+<!-- ![stars](https://github-readme-stats.vercel.app/api?username=tahanyAli&theme=tokyonight) -->
 <!--
 **tahanyAli/tahanyAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
